@@ -1,0 +1,22 @@
+{
+  "name": "Log",
+  "version": "0.1.0",
+  "summary": "A short description of Log.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/2126724184@qq.com/Log",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2126724184@qq.com": "yanwu.wei@zerotech.com"
+  },
+  "source": {
+    "git": "https://github.com/2126724184@qq.com/Log.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Log/Classes/**/*"
+}

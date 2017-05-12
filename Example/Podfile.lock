@@ -1,0 +1,19 @@
+PODS:
+  - Kiwi (2.4.0)
+  - Log (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - Log (from `../`)
+
+EXTERNAL SOURCES:
+  Log:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  Log: 3be1ee16b6044f2b28bcebb3146a13dcfe1f80b6
+
+PODFILE CHECKSUM: 2ce70219043702b092e9c2b06de29f63bc2bc90b
+
+COCOAPODS: 1.2.1

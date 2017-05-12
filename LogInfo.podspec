@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Log'
-  s.version          = '1.0.0'
-  s.summary          = 'Log is good'
+  s.name             = 'LogInfo'
+  s.version          = '2.0.0'
+  s.summary          = 'LogInfo is good'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

@@ -8,8 +8,6 @@
 
 #import "Log.h"
 
-#define XCODE_COLORS_ESCAPE_SEQ "\033["
-
 @implementation Log
 
 + (void)doLog:(const char *)file
